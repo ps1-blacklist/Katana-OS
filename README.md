@@ -12,7 +12,7 @@
 
 **Katana OS** is an advanced, automated, and lightweight open-source Linux distribution built on top of the rock-solid **Debian** ecosystem. Crafted specifically for security researchers, ethical hackers, and reverse engineers, **Katana OS** aims to redefine mobility and performance in cyber security environments.
 
-Developed and maintained by **[BL4CKL1ST](https://github.com/ps1-blacklist)**.
+Developed and maintained by **[Professor Bl4ckl1$t](https://github.com/ps1-blacklist)**.
 
 ---
 
@@ -46,4 +46,4 @@ The foundation is ready, and the automated integration scripts are being fine-tu
 ⭐ **Drop a STAR to this repository to stay updated with the development logs and the upcoming alpha release!**
 
 ---
-© 2026 **Katana OS Project** | Developed by **BL4CKL1ST**
+© 2026 **Katana OS Project** | Developed by **Professor Bl4ckl1$t**
